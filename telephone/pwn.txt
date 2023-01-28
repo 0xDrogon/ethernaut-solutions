@@ -1,0 +1,5 @@
+How to pwn Telephone:
+
+1) Deploy the Pwn contract with the address of the Telephone contract and the attacker address
+2) Call pwn()
+3) Confirm you are now the owner by calling owner()
