@@ -1,0 +1,6 @@
+How to pwn Fallback:
+
+1) Make a small contribution (<0.001 ether) to the contract by calling contribute()
+2) Transfer an amount of ether to the contract (it will trigger the receive() function)
+3) Confirm you are now the owner by calling owner()
+4) Call withdraw()
