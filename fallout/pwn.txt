@@ -1,0 +1,4 @@
+How to pwn Fallout:
+
+1) Call Fal1out()
+2) Confirm you are now the owner by calling owner()
