@@ -1,0 +1,5 @@
+How to pwn CoinFlip:
+
+1) Deploy the Pwn contract with the address of the CoinFlip contract
+2) Call pwn() 10 times
+3) Confirm you have won by calling consecutiveWins()
