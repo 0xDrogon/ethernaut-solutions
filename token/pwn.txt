@@ -1,0 +1,4 @@
+How to pwn Token:
+
+1) Transfer 21 tokens to any address (except your own) by calling transfer()
+2) Confirm you now have a huge amount of tokens by calling balanceOf()
