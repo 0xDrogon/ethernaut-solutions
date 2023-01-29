@@ -1,0 +1,5 @@
+How to pwn Vault:
+
+1) Get the value of the password variable by running `await web3.eth.getStorageAt(contract.address, 1)` on the console of dev tools
+2) Call unlock() with that value
+3) Confirm that the locked variable is now false
