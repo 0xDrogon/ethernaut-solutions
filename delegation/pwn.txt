@@ -1,0 +1,4 @@
+How to pwn Delegation:
+
+1) Send a transaction with the following data: "0xdd365b8b" (first 4 bytes of the keccak256 hash of "pwn()"). This will trigger the fallback() function and make a delegatecall to the pwn() function.
+2) Confirm you are now the owner by calling owner()
