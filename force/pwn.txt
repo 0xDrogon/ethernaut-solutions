@@ -1,0 +1,5 @@
+How to pwn Force:
+
+1) Deploy the Pwn contract with the address of the Force contract and send an amount of ether in the transaction (e.g., 1 wei)
+2) Call pwn()
+3) Confirm that the Force contract now has a balance equal to the amount you sent to the Pwn contract
