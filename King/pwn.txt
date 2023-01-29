@@ -1,0 +1,5 @@
+How to pwn King:
+
+1) Deploy the Pwn contract with the address of the King contract
+2) Call pwn() and send an amount of ether >= prize (>= 1000000000000000 wei)
+3) Confirm you are now the king by calling _king()
