@@ -1,0 +1,5 @@
+How to pwn Elevator:
+
+1) Deploy the Pwn contract with the address of the Elevator contract
+2) Call pwn() 
+3) Confirm that the top variable is true by calling top()
