@@ -1,0 +1,5 @@
+How to pwn GatekeeperOne:
+
+1) Deploy the Pwn contract with the address of the GatekeeperOne contract
+2) Call pwn()
+3) Confirm that the entrant variable in the GatekeeperOne contract is now equal to your address
