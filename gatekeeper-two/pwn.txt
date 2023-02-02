@@ -1,0 +1,5 @@
+How to pwn GatekeeperTwo:
+
+1) Deploy the Pwn contract with the address of the GatekeeperTwo contract
+2) Call pwn()
+3) Confirm that the entrant variable in the GatekeeperTwo contract is now equal to your address
