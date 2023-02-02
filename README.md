@@ -29,3 +29,7 @@ You should always try to solve these challenges for yourself. Use this repositor
 [11. Elevator](./elevator/)
 
 [12. Privacy](./privacy/)
+
+[13. Gatekeeper One](./gatekeeper-one/)
+
+[14. Gatekeeper Two](./gatekeeper-two/)
