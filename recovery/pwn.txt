@@ -1,0 +1,6 @@
+How to pwn Recovery:
+
+1) Deploy the Pwn contract 
+2) Call pwn() with the address of the Recovery contract (it returns the address of the SimpleToken contract)
+3) Call destroy() with your own address
+4) Confirm that the calculated address has now a balance of 0
