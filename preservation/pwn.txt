@@ -1,0 +1,5 @@
+How to pwn Preservation:
+
+1) Deploy the Pwn contract 
+2) Call pwn() with the address of the Preservation contract
+3) Confirm that you are now the owner of the Preservation contract by calling owner()
