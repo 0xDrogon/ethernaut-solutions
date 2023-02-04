@@ -39,3 +39,5 @@ You should always try to solve these challenges for yourself. Use this repositor
 [16. Preservation](./preservation/)
 
 [17. Recovery](./recovery/)
+
+[21. Shop](./shop/)
