@@ -1,0 +1,5 @@
+How to pwn Denial:
+
+1) Deploy the Pwn contract
+2) Call setWithdrawPartner() on the Denial contract with the address of the Pwn contract
+3) Call withdraw() on the Denial contract
