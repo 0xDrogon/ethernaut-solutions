@@ -40,4 +40,6 @@ You should always try to solve these challenges for yourself. Use this repositor
 
 [17. Recovery](./recovery/)
 
+[20. Denial](./denial/)
+
 [21. Shop](./shop/)
