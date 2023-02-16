@@ -1,0 +1,6 @@
+How to pwn Dex:
+
+1) Deploy the Pwn contract with the address of the Dex contract
+2) Aprove the Pwn contract to spend your tokens (10 of token1 and 10 of token2)
+3) Call pwn() 
+4) Confirm that the Dex contract has a balance of 0 token1
