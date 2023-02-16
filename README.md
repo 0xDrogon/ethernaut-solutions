@@ -43,3 +43,5 @@ You should always try to solve these challenges for yourself. Use this repositor
 [20. Denial](./denial/)
 
 [21. Shop](./shop/)
+
+[22. Dex](./dex/)
