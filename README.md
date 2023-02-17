@@ -45,3 +45,5 @@ You should always try to solve these challenges for yourself. Use this repositor
 [21. Shop](./shop/)
 
 [22. Dex](./dex/)
+
+[23. Dex Two](./dex-two/)
