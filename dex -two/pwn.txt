@@ -1,0 +1,7 @@
+How to pwn DexTwo:
+
+1) Deploy the PwnToken contract with the address of the Dex contract
+2) Deploy the Pwn contract with the addresses of the Dex contract and the PwnToken contract
+3) Aprove the Pwn contract to spend your PWN tokens
+4) Call pwn() 
+5) Confirm that the Dex contract has a balance of 0 token1 and 0 token2
