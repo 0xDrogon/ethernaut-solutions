@@ -2,7 +2,7 @@
 
 This repository contains my solutions to OpenZeppelin's Ethernaut (https://ethernaut.openzeppelin.com)
 
-You should always try to solve these challenges for yourself. Use this repository to compare solutions and to get hints.
+You should always try to solve these challenges on your own. Use this repository responsibly to compare solutions, to get hints and (hopefully) to learn.
 
 ## Solutions
 
