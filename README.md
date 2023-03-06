@@ -40,6 +40,8 @@ You should always try to solve these challenges on your own. Use this repository
 
 [17. Recovery](./recovery/)
 
+[18. Magic Number](./magic-number/)
+
 [20. Denial](./denial/)
 
 [21. Shop](./shop/)
