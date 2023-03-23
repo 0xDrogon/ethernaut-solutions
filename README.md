@@ -42,6 +42,8 @@ You should always try to solve these challenges on your own. Use this repository
 
 [18. Magic Number](./magic-number/)
 
+[19. Alien Codex](./alien-codex/)
+
 [20. Denial](./denial/)
 
 [21. Shop](./shop/)
@@ -49,6 +51,12 @@ You should always try to solve these challenges on your own. Use this repository
 [22. Dex](./dex/)
 
 [23. Dex Two](./dex-two/)
+
+24. Puzzle Wallet
+
+25. Motorbike
+
+26. DoubleEntryPoint
 
 [27. Good Samaritan](./good-samaritan/)
 

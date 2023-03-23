@@ -1,0 +1,4 @@
+How to pwn Alien Codex:
+
+1) Deploy the Pwn contract with the address of the AlienCodex contract
+2) Confirm that the level was successfully completed
