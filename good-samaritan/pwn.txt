@@ -1,0 +1,5 @@
+How to pwn Good Samaritan:
+
+1) Deploy the Pwn contract with the address of the GoodSamaritan contract
+2) Call pwn()
+3) Confirm that the level was successfully completed

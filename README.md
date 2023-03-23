@@ -49,3 +49,5 @@ You should always try to solve these challenges on your own. Use this repository
 [22. Dex](./dex/)
 
 [23. Dex Two](./dex-two/)
+
+[23. Dex Two](./good-samaritan/)
