@@ -51,3 +51,5 @@ You should always try to solve these challenges on your own. Use this repository
 [23. Dex Two](./dex-two/)
 
 [27. Good Samaritan](./good-samaritan/)
+
+[28. Gatekeeper Three](./gatekeeper-three/)

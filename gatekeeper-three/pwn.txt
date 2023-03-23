@@ -1,0 +1,5 @@
+How to pwn GatekeeperTwo:
+
+1) Deploy the Pwn contract with the address of the GatekeeperThree contract with 1100000 Gwei (0.0011 Ether)
+2) Call pwn()
+3) Confirm that the entrant variable in the GatekeeperThree contract is now equal to your address
